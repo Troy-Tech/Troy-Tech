@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi, I'm Rebecca Troy</h1>
-<h3 align="center" 📚🔬🧪⚙️</h3>
+<h3 align="center">📚🔬🧪⚙️</h3>
 
 - 📫 How to reach me **rebeccalt07@icloud.com**
 
